@@ -110,3 +110,52 @@ h2 {
     margin-top: 20px;
 
 }
+
+.input-style {
+    width: 100%;
+    height: 30px;
+    font-size: 14px;
+}
+
+.text-area-style {
+    width: 100%;
+    height: 250px;
+    font-size: 14px;
+}
+
+.submit {
+    background-color: #4aaaa5;
+    height: 40px;
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 5px 25px 5px 25px;
+}
+
+.portfolio-image {
+    width: 375px;
+    height: 281px;
+}
+
+.image-holder {
+    width: 375px;
+    height: 281px;
+    float: left;
+    padding: 25px;
+}
+
+.image-banner {
+    height: 50px;
+    width: 375px;
+    background-color: #4aaaa5;
+    position: relative;
+    top: -75px;
+}
+
+.image-banner-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
